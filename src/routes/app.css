@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Barriecito";
+  src: url("../fonts/Barriecito-Regular.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Orbitron";
+  src: url("../fonts/Orbitron-Bold.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
