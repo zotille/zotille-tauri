@@ -1,0 +1,8 @@
+{
+  "$schema": "https://lf3-static.bytednsdoc.com/obj/eden-cn/nulmlbebo/z.schema.json",
+  "styleLoader": "tailwind",
+  "react": {
+    "fileName": "name",
+    "export": "named"
+  }
+}
