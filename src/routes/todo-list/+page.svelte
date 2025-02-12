@@ -1,7 +1,6 @@
 <script>
-  import { appContainer, TodoService } from "@utils/injectable";
-
-  const todoService = appContainer.get(TodoService);
 </script>
 
-<div></div>
+<div class="flex flex-col h-full w-full">
+  <div></div>
+</div>

@@ -35,7 +35,7 @@
   "plugins": {
     "sql": {
       "preload": [
-        "sqlite:test.db"
+        "sqlite:zotille-tools.db"
       ]
     }
   }

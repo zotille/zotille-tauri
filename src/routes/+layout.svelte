@@ -24,7 +24,7 @@
 
 <!-- 渲染目录并高亮当前路由 -->
 <main>
-  <Loading loading={$appDone}>
+  <Loading loading={!$appDone}>
     <div class="flex w-[100vw] h-[100vh]">
       <div class="w-60 h-full shrink-0 border-r border-gray-300 p-2">
         <!-- 左上角Logo -->
